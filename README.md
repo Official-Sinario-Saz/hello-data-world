@@ -45,4 +45,4 @@ To set up a professional development environment and create a simple Python scri
    ~~~
 
 ## Output
-The script prints a simple DataFrame and calculates the average age.   pip install -r requirements.txt```
+The script prints a simple DataFrame and calculates the average age.
